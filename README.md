@@ -56,15 +56,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeb-ferrarezi/guilhermeb-ferrarezi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeb-ferrarezi/guilhermeb-ferrarezi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilhermeb-ferrarezi/guilhermeb-ferrarezi/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/guilhermeb-ferrarezi/guilhermeb-ferrarezi/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=guilhermeb-ferrarezi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeb-ferrarezi&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribuitions&bg_color=1F021F&area_color=F300FF&line=F300FF" height="300" alt="activity-graph graph"  />
 </div>
 
