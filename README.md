@@ -54,10 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/guilhermeb-ferrarezi/guilhermeb-ferrarezi/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeb-ferrarezi&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribuitions&bg_color=1F021F&area_color=F300FF&line=F300FF" height="300" alt="activity-graph graph"  />
 </div>
