@@ -69,6 +69,6 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=104&section=footer&reversal=true&fontSize=70&fontColor=purple&fontAlign=50&fontAlignY=75&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-A[Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bq08ma7yj1n9raa3n9qsvr4lm&unique={true|1|on|yes})
+
 
 ###
