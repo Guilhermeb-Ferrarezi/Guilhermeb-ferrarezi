@@ -1,74 +1,109 @@
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=104&section=header&reversal=true&text=Hi!!,%20I'm%20Guilherme%20Barbosa%20Ferrarezi&fontSize=40&fontColor=A020F0&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Guilherme+Ferrarezi&fontSize=42&fontColor=A020F0&fontAlign=50&fontAlignY=75&animation=fadeIn&color=gradient" />
 </div>
 
-###
-
-<br clear="both">
+<br>
 
 <div align="center">
   <a href="https://www.instagram.com/guilherme38_38/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=guzinxxym065&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   <a href="mailto:guibferrarezi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="32" />
   </a>
+  <img src="https://img.shields.io/static/v1?message=guzinxxym065&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="32" />
 </div>
 
-###
+<br>
 
-<br clear="both">
+## 👋 About me
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="80" alt="express logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="git logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80" alt="github logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80" alt="linux logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="80" alt="vercel logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="80" alt="css logo"  />
-</div>
+Fullstack developer from **Ribeirão Preto, SP — Brazil**, focused on building real products from scratch.
 
-###
+I work primarily with **React + TypeScript** on the frontend and **Node.js / Express + PostgreSQL** on the backend. I enjoy deploying with Docker, automating things, and integrating AI into practical workflows.
+
+Currently building:
+- 🎓 **Portal do Aluno** — education platform for Santos Tech with role-based access (admin, professor, student), course management and JWT auth
+- 🤖 **SGA Chatbot** — WhatsApp Business chatbot with AI (OpenAI/Claude) for Santos Games Arena, an esports org that runs tournaments across São Paulo
+
+Outside of work I run **Arch Linux + Hyprland** on my main machine, rice my desktop, and play **Minecraft** (GuizinDark) and **Roblox**.
+
+<br>
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+**Infra & Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+<br>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Portal do Aluno — Santos Tech</h3>
+      <p>Education platform with multi-role access (admin, professor, student). Courses, modules, turmas, progress tracking and full JWT auth flow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 SGA Chatbot — Santos Games Arena</h3>
+      <p>WhatsApp Business chatbot with AI integration (OpenAI/Claude) for an esports org. Handles leads, tournament info, audio messages and authentication.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 Activity
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeb-ferrarezi&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribuitions&bg_color=1F021F&area_color=F300FF&line=F300FF" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeb-ferrarezi&radius=16&theme=dracula&area=true&hide_border=true&custom_title=Contributions&bg_color=1F021F&area_color=F300FF&line=F300FF" height="280" alt="activity graph" />
 </div>
 
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=guilhermeb-ferrarezi.guilhermeb-ferrarezi&"  />
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=104&section=footer&reversal=true&fontSize=70&fontColor=purple&fontAlign=50&fontAlignY=75&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeb-ferrarezi&layout=compact&theme=dracula&hide_border=true&bg_color=1F021F&title_color=A020F0&text_color=ffffff" height="140" alt="top languages" />
 </div>
 
+<br>
 
-###
+<img src="https://visitor-badge.laobi.icu/badge?page_id=guilhermeb-ferrarezi.guilhermeb-ferrarezi" />
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn&color=gradient" />
+</div>
