@@ -23,7 +23,7 @@ Fullstack developer from **Ribeirão Preto, SP — Brazil**, focused on building
 I work primarily with **React + TypeScript** on the frontend and **Node.js / Express + PostgreSQL** on the backend. I enjoy deploying with Docker, automating things, and integrating AI into practical workflows.
 
 Currently building:
-- 🎓 **Portal do Aluno** — education platform for Santos Tech with role-based access (admin, professor, student), course management and JWT auth
+- 🎓 **Portal do Aluno** — administrative platform for Santos Tech with role-based access (admin, professor, student), course and turma management and JWT auth
 - 🤖 **SGA Chatbot** — WhatsApp Business chatbot with AI (OpenAI/Claude) for Santos Games Arena, an esports org that runs tournaments across São Paulo
 
 Outside of work I run **Arch Linux + Hyprland** on my main machine, rice my desktop, and play **Minecraft** (GuizinDark) and **Roblox**.
@@ -67,7 +67,7 @@ Outside of work I run **Arch Linux + Hyprland** on my main machine, rice my desk
   <tr>
     <td width="50%" valign="top">
       <h3>📚 Portal do Aluno — Santos Tech</h3>
-      <p>Education platform with multi-role access (admin, professor, student). Courses, modules, turmas, progress tracking and full JWT auth flow.</p>
+      <p>Administrative platform for Santos Tech. Multi-role access (admin, professor, student), course and turma management, and full JWT auth flow.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
