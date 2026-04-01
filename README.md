@@ -96,10 +96,6 @@ Outside of work I run **Arch Linux + Hyprland** on my main machine, rice my desk
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeb-ferrarezi&radius=16&theme=dracula&area=true&hide_border=true&custom_title=Contributions&bg_color=1F021F&area_color=F300FF&line=F300FF" height="280" alt="activity graph" />
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeb-ferrarezi&layout=compact&theme=dracula&hide_border=true&bg_color=1F021F&title_color=A020F0&text_color=ffffff" height="140" alt="top languages" />
-</div>
-
 <br>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=guilhermeb-ferrarezi.guilhermeb-ferrarezi" />
