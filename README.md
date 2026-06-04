@@ -26,8 +26,6 @@ Currently building:
 - 🎓 **Portal do Aluno** — administrative platform for Santos Tech with role-based access (admin, teacher), course and course, class management and JWT auth
 - 🤖 **SGA Chatbot** — WhatsApp Business chatbot with AI (OpenAI/Claude) for Santos Games Arena, an esports org that runs tournaments across São Paulo
 
-Outside of work I run **Arch Linux + Hyprland** on my main machine, rice my desktop, and play **Minecraft** (GuizinDark) and **Roblox**.
-
 <br>
 
 ## 🛠️ Tech Stack
